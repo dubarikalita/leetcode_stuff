@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/dubarikalita/leetcode_stuff/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/dubarikalita/leetcode_stuff/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/dubarikalita/leetcode_stuff/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/dubarikalita/leetcode_stuff/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/dubarikalita/leetcode_stuff/tree/main/0704-binary-search/) | Easy |
