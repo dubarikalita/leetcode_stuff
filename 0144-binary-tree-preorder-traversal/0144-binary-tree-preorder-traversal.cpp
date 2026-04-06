@@ -20,9 +20,9 @@ public:
     vector<int> preorder(TreeNode* node){
         if(node==NULL) return {};
         vector<int> data;
-        data.push_back(node->val);
         vector<int>left =preorder(node->left);
         vector<int>right=preorder(node->right);
+        data.push_back(node->val);
         data.insert(data.end(),left.begin(),left.end());
         data.insert(data.end(),right.begin(),right.end());
         return data;
