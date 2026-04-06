@@ -62,11 +62,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +77,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
