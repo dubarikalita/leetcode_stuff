@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/dubarikalita/leetcode_stuff/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/dubarikalita/leetcode_stuff/tree/main/0162-find-peak-element/) | Medium |
+| [0189-rotate-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/dubarikalita/leetcode_stuff/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dubarikalita/leetcode_stuff/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0189-rotate-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
