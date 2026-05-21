@@ -12,21 +12,21 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         ListNode* leftHead=head;
-        ListNode* middle=findMiddle(head);
-        ListNode* rightHead=middle->next;
-        middle->next=NULL;
+        ListNode* mid=findMid(head);
+        ListNode* rightHead=mid->next;
+        mid->next=NULL;
         rightHead=reverseLL(rightHead);
-        ListNode* temp1=leftHead, *temp2=rightHead;
-        while(temp1!=NULL && temp2!=NULL){
-            if(temp1->val!=temp2->val){
+        ListNode* tempL=leftHead, *tempR=rightHead;
+        while(tempL!=NULL && tempR!=NULL){
+            if(tempL->val!=tempR->val){
                 return false;
             }
-            temp1=temp1->next;
-            temp2=temp2->next;
+            tempL=tempL->next;
+            tempR=tempR->next;
         }
         return true;
     }
-    ListNode* findMiddle(ListNode* head){
+    ListNode* findMid(ListNode* head){
         ListNode* fast=head->next;
         ListNode* slow=head;
         while(fast!=NULL && fast->next!=NULL){
@@ -47,4 +47,5 @@ public:
         }
         return prev;
     }
+
 };
