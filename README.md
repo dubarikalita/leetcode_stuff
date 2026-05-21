@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/dubarikalita/leetcode_stuff/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/dubarikalita/leetcode_stuff/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
