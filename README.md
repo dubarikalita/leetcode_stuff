@@ -123,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/dubarikalita/leetcode_stuff/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
