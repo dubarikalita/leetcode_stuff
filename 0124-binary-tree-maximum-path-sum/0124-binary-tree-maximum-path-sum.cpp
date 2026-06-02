@@ -12,16 +12,16 @@
 class Solution {
 public:
     int maxPathSum(TreeNode* root) {
-       int maxi=INT_MIN;
-       pathsum(root,maxi) ;
-       return maxi;
+        int sum=INT_MIN;
+        func(root,sum);
+        return sum;
     }
 
-    int pathsum(TreeNode* node, int &maxi){
+    int  func(TreeNode* node,int& maxi){
         if(node==NULL) return 0;
-        int left=max(0,pathsum(node->left,maxi));
-        int right=max(0,pathsum(node->right,maxi));
+        int left=max(0,func(node->left,maxi));
+        int right=max(0,func(node->right,maxi));
         maxi=max(maxi,left+right+node->val);
-        return max(left,right)+node->val;
+        return node->val+max(left,right);
     }
 };
