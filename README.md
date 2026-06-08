@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/dubarikalita/leetcode_stuff/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/dubarikalita/leetcode_stuff/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/dubarikalita/leetcode_stuff/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Dynamic Programming
@@ -139,4 +142,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dubarikalita/leetcode_stuff/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
