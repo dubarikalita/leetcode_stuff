@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/dubarikalita/leetcode_stuff/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
+| [0542-01-matrix](https://github.com/dubarikalita/leetcode_stuff/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/dubarikalita/leetcode_stuff/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/dubarikalita/leetcode_stuff/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/dubarikalita/leetcode_stuff/tree/main/0994-rotting-oranges/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/dubarikalita/leetcode_stuff/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/dubarikalita/leetcode_stuff/tree/main/0207-course-schedule/) | Medium |
+| [0542-01-matrix](https://github.com/dubarikalita/leetcode_stuff/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/dubarikalita/leetcode_stuff/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/dubarikalita/leetcode_stuff/tree/main/0733-flood-fill/) | Easy |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0542-01-matrix](https://github.com/dubarikalita/leetcode_stuff/tree/main/0542-01-matrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/dubarikalita/leetcode_stuff/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/dubarikalita/leetcode_stuff/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/dubarikalita/leetcode_stuff/tree/main/0994-rotting-oranges/) | Medium |
 ## Topological Sort
