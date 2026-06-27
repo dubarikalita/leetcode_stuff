@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/dubarikalita/leetcode_stuff/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/dubarikalita/leetcode_stuff/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/dubarikalita/leetcode_stuff/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/dubarikalita/leetcode_stuff/tree/main/0733-flood-fill/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/dubarikalita/leetcode_stuff/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/dubarikalita/leetcode_stuff/tree/main/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -181,10 +183,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/dubarikalita/leetcode_stuff/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/dubarikalita/leetcode_stuff/tree/main/0547-number-of-provinces/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/dubarikalita/leetcode_stuff/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/dubarikalita/leetcode_stuff/tree/main/0994-rotting-oranges/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/dubarikalita/leetcode_stuff/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
