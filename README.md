@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/dubarikalita/leetcode_stuff/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dubarikalita/leetcode_stuff/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0136-single-number/) | Easy |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dubarikalita/leetcode_stuff/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0010-regular-expression-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dubarikalita/leetcode_stuff/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/dubarikalita/leetcode_stuff/tree/main/0542-01-matrix/) | Medium |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
