@@ -236,4 +236,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/dubarikalita/leetcode_stuff/tree/main/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/dubarikalita/leetcode_stuff/tree/main/1148-article-views-i/) | Easy |
 <!---LeetCode Topics End-->
