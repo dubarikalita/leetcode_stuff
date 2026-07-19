@@ -232,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0042-trapping-rain-water/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/dubarikalita/leetcode_stuff/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
