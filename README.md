@@ -237,5 +237,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0595-big-countries](https://github.com/dubarikalita/leetcode_stuff/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/dubarikalita/leetcode_stuff/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dubarikalita/leetcode_stuff/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/dubarikalita/leetcode_stuff/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
