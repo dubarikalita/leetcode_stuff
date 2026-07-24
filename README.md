@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/dubarikalita/leetcode_stuff/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/dubarikalita/leetcode_stuff/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/dubarikalita/leetcode_stuff/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/dubarikalita/leetcode_stuff/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dubarikalita/leetcode_stuff/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/dubarikalita/leetcode_stuff/tree/main/0542-01-matrix/) | Medium |
@@ -268,4 +270,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-average-time-of-process-per-machine](https://github.com/dubarikalita/leetcode_stuff/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/dubarikalita/leetcode_stuff/tree/main/1683-invalid-tweets/) | Easy |
 | [1934-confirmation-rate](https://github.com/dubarikalita/leetcode_stuff/tree/main/1934-confirmation-rate/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
