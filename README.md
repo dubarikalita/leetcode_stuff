@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/dubarikalita/leetcode_stuff/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/dubarikalita/leetcode_stuff/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dubarikalita/leetcode_stuff/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/0045-jump-game-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
