@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0010-regular-expression-matching/) | Hard |
+| [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/dubarikalita/leetcode_stuff/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dubarikalita/leetcode_stuff/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/dubarikalita/leetcode_stuff/tree/main/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
