@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dubarikalita/leetcode_stuff/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dubarikalita/leetcode_stuff/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -195,10 +196,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/dubarikalita/leetcode_stuff/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/dubarikalita/leetcode_stuff/tree/main/0012-integer-to-roman/) | Medium |
+| [0022-generate-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
