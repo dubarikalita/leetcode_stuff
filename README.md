@@ -289,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0062-unique-paths/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
