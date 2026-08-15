@@ -17,14 +17,14 @@ public:
         return diameter;
     }
 
-    int height(TreeNode* node,int& maxi){
-        if(node==NULL) return 0;
+    int height(TreeNode* root, int &diameter){
+        if(root==NULL) return 0;
 
-        int lh=height(node->left,maxi);
-        int rh=height(node->right,maxi);
+        int left=height(root->left,diameter);
+        int right=height(root->right,diameter);
 
-        maxi=max(maxi,lh+rh);
+        diameter=max(diameter,left+right);
 
-        return 1+max(lh,rh);
+        return 1+max(left,right);
     }
 };
