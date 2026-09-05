@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/dubarikalita/leetcode_stuff/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/dubarikalita/leetcode_stuff/tree/main/0012-integer-to-roman/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
