@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/dubarikalita/leetcode_stuff/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/dubarikalita/leetcode_stuff/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
+| [0125-valid-palindrome](https://github.com/dubarikalita/leetcode_stuff/tree/main/0125-valid-palindrome/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
