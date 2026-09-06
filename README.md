@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/dubarikalita/leetcode_stuff/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/dubarikalita/leetcode_stuff/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/dubarikalita/leetcode_stuff/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/dubarikalita/leetcode_stuff/tree/main/0056-merge-intervals/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dubarikalita/leetcode_stuff/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/dubarikalita/leetcode_stuff/tree/main/0012-integer-to-roman/) | Medium |
+| [0049-group-anagrams](https://github.com/dubarikalita/leetcode_stuff/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/dubarikalita/leetcode_stuff/tree/main/0016-3sum-closest/) | Medium |
+| [0049-group-anagrams](https://github.com/dubarikalita/leetcode_stuff/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/dubarikalita/leetcode_stuff/tree/main/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/dubarikalita/leetcode_stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/dubarikalita/leetcode_stuff/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/dubarikalita/leetcode_stuff/tree/main/0125-valid-palindrome/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 ## Backtracking
