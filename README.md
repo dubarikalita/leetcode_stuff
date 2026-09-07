@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/dubarikalita/leetcode_stuff/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/dubarikalita/leetcode_stuff/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/dubarikalita/leetcode_stuff/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0206-reverse-linked-list/) | Easy |
