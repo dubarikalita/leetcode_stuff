@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/dubarikalita/leetcode_stuff/tree/main/0994-rotting-oranges/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dubarikalita/leetcode_stuff/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/dubarikalita/leetcode_stuff/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/dubarikalita/leetcode_stuff/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
