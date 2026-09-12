@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dubarikalita/leetcode_stuff/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/dubarikalita/leetcode_stuff/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 ## Binary Search
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/dubarikalita/leetcode_stuff/tree/main/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
