@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dubarikalita/leetcode_stuff/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dubarikalita/leetcode_stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/dubarikalita/leetcode_stuff/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/dubarikalita/leetcode_stuff/tree/main/0125-valid-palindrome/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dubarikalita/leetcode_stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
