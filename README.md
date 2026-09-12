@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/dubarikalita/leetcode_stuff/tree/main/0994-rotting-oranges/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dubarikalita/leetcode_stuff/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/dubarikalita/leetcode_stuff/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 ## Binary Search
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/dubarikalita/leetcode_stuff/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/dubarikalita/leetcode_stuff/tree/main/0704-binary-search/) | Easy |
+| [2439-minimize-maximum-of-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dubarikalita/leetcode_stuff/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dubarikalita/leetcode_stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/dubarikalita/leetcode_stuff/tree/main/0542-01-matrix/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/dubarikalita/leetcode_stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/dubarikalita/leetcode_stuff/tree/main/0055-jump-game/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/dubarikalita/leetcode_stuff/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
