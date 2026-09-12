@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/dubarikalita/leetcode_stuff/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/dubarikalita/leetcode_stuff/tree/main/0994-rotting-oranges/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dubarikalita/leetcode_stuff/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/dubarikalita/leetcode_stuff/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 ## Binary Search
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/dubarikalita/leetcode_stuff/tree/main/0268-missing-number/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dubarikalita/leetcode_stuff/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/dubarikalita/leetcode_stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
