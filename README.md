@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dubarikalita/leetcode_stuff/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/dubarikalita/leetcode_stuff/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/dubarikalita/leetcode_stuff/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/dubarikalita/leetcode_stuff/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dubarikalita/leetcode_stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/dubarikalita/leetcode_stuff/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/dubarikalita/leetcode_stuff/tree/main/0125-valid-palindrome/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dubarikalita/leetcode_stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dubarikalita/leetcode_stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/dubarikalita/leetcode_stuff/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,10 +288,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/dubarikalita/leetcode_stuff/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/dubarikalita/leetcode_stuff/tree/main/0055-jump-game/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/dubarikalita/leetcode_stuff/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/dubarikalita/leetcode_stuff/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dubarikalita/leetcode_stuff/tree/main/0042-trapping-rain-water/) | Hard |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/dubarikalita/leetcode_stuff/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
